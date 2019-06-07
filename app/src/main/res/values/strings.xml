@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MobileGYM</string>
+    --Tela de login--
+    <string name="bt_exercicio">"Exercício"</string>
+    <string name="bt_guia">"Guia"</string>
+    <string name="bt_sair">"Sair"</string>
+    --Tela de exercicio--
+    <string name="txt_ex">"Exercícios Padrões"</string>
+    <string name="bt_ex1">"Exercício 1"</string>
+    <string name="bt_ex2">"Exercício 2"</string>
+    <string name="bt_ex3">"Exercício 3"</string>
+    <string name="bt_ex4">"Exercício 4"</string>
+    <string name="bt_ex5">"Exercício 5"</string>
+    <string name="txt_ex2">"Exercícios Customizados"</string>
+    <string name="bt_ex_c1">"Exercício Custom 1"</string>
+    <string name="bt_ex_c2">"Exercício Custom 2"</string>
+    --Botao tres pontinhos--
+    <string name="bt_criar">"Criar exercício"</string>
+    <string name="bt_rp_edit">"Replicar e Editar"</string>
+    <string name="bt_edit_custom">"Editar Ex. Custom"</string>
+    <string name="bt_delete_ex">"Remover Exercício"</string>
+    <string name="bt_acesso_guia">"Acessar Guias"</string>
+    --Tela Criar Exercicio--
+    <string name="txt_nome_ex">"Nome do Exercício"</string>
+    <string name="txt_nSeries">"Séries"</string>
+    <string name="intervalo">"Tempo de intervalo"</string>
+    <string name="bt_save">"Salvar"</string>
+    --Tela de cadastro--
+    <string name="txt_inicial">"Cadastrar como:"</string>
+    <string name="bt_personal">"Personal Trainer"</string>
+    <string name="bt_aluno">"Aluno"</string>
+    --Tela Aluno--
+    <string name="txt_aluno_nome">"Nome:"</string>
+    <string name="txt_aluno_idade">"Idade:"</string>
+    <string name="txt_aluno_altura">"Altura:"</string>
+    <string name="txt_aluno_peso">"Peso(KG):"</string>
+    <string name="txt_usuario">"Usuário: "</string>
+    <string name="checkbox">"Possui doença crônica?"</string>
+    <string name="checkbox_qual">"Qual?"</string>
+    <string name="radioButton">"Objetivo na academia"</string>
+    <string name="radioButton1">"Perder peso"</string>
+    <string name="radioButton2">"Ganhar massa"</string>
+    <string name="checkbox2">"Toma algum medicamento?</string>
+    --Tela Login--
+    <string name="txt_login">"Login"</string>
+    <string name="txt_senha">"Senha"</string>
+    <string name="bt_conectar">"Conectar"</string>
+    <string name="bt_cadastrar">"Cadastrar"</string>
+</resources>
